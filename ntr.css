@@ -1,0 +1,69 @@
+body {
+    text-align: center; 
+     margin-right: 15%;
+     margin-left: 15%;
+     
+   }
+   main{
+     background-color: rgb(231, 229, 229);
+   }
+   body{
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+ 
+   }
+   header {
+     background-image: linear-gradient(to bottom left, #f0c 40% ,#339);
+     color: #fff;
+     padding: 20px;
+   }
+   
+   
+   
+   nav ul li {
+     display: inline;
+     margin-right: 10px;
+   }
+   
+   nav ul li a {
+     font-family: 'Courier New', Courier, monospace;
+     color:#ffffff;
+     text-decoration: none;
+     padding-left: 40px;
+     margin-bottom: 30px;
+   }
+   
+   
+   
+   footer {
+     background-color: #6e6e6e;
+     color: #fff;
+     padding: 10px;
+     
+   }
+   
+   #home img {
+     width: 200px;
+     height: 200px;
+     border-radius: 60%;
+     border-width: 20px #000;
+     border-color: aqua 30%;
+     
+   }
+   
+   #portfolio{
+     background-color: rgb(206, 205, 255);
+     padding: 10px;
+     text-shadow: #000 100px;
+     box-shadow: #000 10%;
+     border-radius: 10px;
+   }
+   li{
+     display: inline;
+     margin-right:10px ;
+   }
+   p{
+     font-size: 20px;
+   }
+   h1{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
